@@ -1,0 +1,6 @@
+{
+    "description": "I don't have a name",
+    "scripts": {
+        "build": "echo \"but i can build\""
+    }
+}
